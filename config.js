@@ -1,4 +1,4 @@
 module.exports = {
-  MONGODB_URL: process.env.MONGODB_URL || "mongodb+srv://Zenitsu:godzenitsu12@nezuko02.nbdrnfe.mongodb.net/?retryWrites=true&w=majority&appName=Nezuko02",
-  SESSION_NAME: process.env.SESSION_NAME || "NEZUKO-MD~"
+  MONGODB_URL: process.env.MONGODB_URL || "mongodb+srv://darvismd290:DevuzAdhi123@cluster0.ne82t1p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  SESSION_NAME: process.env.SESSION_NAME || "ASTRO-XD~"
 };
